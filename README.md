@@ -27,13 +27,8 @@ The database supports core e-commerce operations such as customer management, or
 - **er-diagram/**  
   Contains the Entity Relationship Diagram (ERD) representing the database schema and relationships.
 
-- **screenshots/**  
-  Contains execution evidence screenshots, including:
-  - Database and table creation
-  - Data insertion
-  - Transaction execution
-  - Reporting query outputs
-  - Execution logs
+- **execution_log**  
+  Contains execution evidence screenshot.
 
 ## How to Use
 
